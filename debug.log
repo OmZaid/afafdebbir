@@ -1,0 +1,4 @@
+[1104/180705.849:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1104/183339.511:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1105/203020.231:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[1105/212146.680:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
